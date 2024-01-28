@@ -1,0 +1,31 @@
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.exe.config
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.exe
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.pdb
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Tarantula.resources
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Properties.Resources.resources
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Startpage.resources
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.exe
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.pdb
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Bookmarks.resources
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.History.resources
+C:\Users\Michael\source\repos\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Search.resources
+J:\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.exe.config
+J:\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.exe
+J:\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.pdb
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Bookmarks.resources
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Tarantula.resources
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.History.resources
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Properties.Resources.resources
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Search.resources
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula_V0._2.Startpage.resources
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.csproj.GenerateResource.cache
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.csproj.CoreCompileInputs.cache
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.exe
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.pdb
+J:\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.exe.manifest
+J:\Tarantula V0.2\Tarantula V0.2\bin\Debug\Tarantula V0.2.application
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.exe.manifest
+J:\Tarantula V0.2\Tarantula V0.2\obj\Debug\Tarantula V0.2.application
